@@ -40,9 +40,6 @@ An interactive browser-based studio inspired by the traditional Turkish art of E
 
 </p>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Studio-0f766e?style=for-the-badge)](https://faramarzkowsari.github.io/suya-nakis/)
-[![Latest Release](https://img.shields.io/badge/Release-v2.0.0-c59d45?style=for-the-badge)](https://github.com/FaramarzKowsari/suya-nakis/releases/latest)
-[![Author](https://img.shields.io/badge/Author-Faramarz_Kowsari-0b1f3a?style=for-the-badge)](https://github.com/FaramarzKowsari)
 
 <br>
 
