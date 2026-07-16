@@ -436,6 +436,9 @@ Version 2.0.0, 2026. GitHub.
 https://github.com/FaramarzKowsari/suya-nakis
 ```
 
+Kowsari, Faramarz. *Suya Nakış: Interactive Digital Ebru Studio*.  
+Zenodo, 2026.  
+https://doi.org/10.5281/zenodo.21123598
 ---
 
 ## Current Release
