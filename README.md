@@ -8,7 +8,38 @@
 
 An interactive browser-based studio inspired by the traditional Turkish art of Ebru.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21123598.svg)](https://doi.org/10.5281/zenodo.21123598)
+<p align="center">
+
+  <a href="https://doi.org/10.5281/zenodo.21123598">
+    <img
+      src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21123598-1682D4?style=for-the-badge"
+      alt="DOI: 10.5281/zenodo.21123598"
+    />
+  </a>
+
+  <a href="https://faramarzkowsari.github.io/suya-nakis/">
+    <img
+      src="https://img.shields.io/badge/LIVE_DEMO-OPEN_STUDIO-087F78?style=for-the-badge"
+      alt="Live Demo"
+    />
+  </a>
+
+  <a href="https://github.com/FaramarzKowsari/suya-nakis/releases/latest">
+    <img
+      src="https://img.shields.io/badge/RELEASE-v2.0.0-C9A548?style=for-the-badge"
+      alt="Latest Release"
+    />
+  </a>
+
+  <a href="https://github.com/FaramarzKowsari">
+    <img
+      src="https://img.shields.io/badge/AUTHOR-FARAMARZ_KOWSARI-092044?style=for-the-badge"
+      alt="Faramarz Kowsari"
+    />
+  </a>
+
+</p>
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Studio-0f766e?style=for-the-badge)](https://faramarzkowsari.github.io/suya-nakis/)
 [![Latest Release](https://img.shields.io/badge/Release-v2.0.0-c59d45?style=for-the-badge)](https://github.com/FaramarzKowsari/suya-nakis/releases/latest)
 [![Author](https://img.shields.io/badge/Author-Faramarz_Kowsari-0b1f3a?style=for-the-badge)](https://github.com/FaramarzKowsari)
