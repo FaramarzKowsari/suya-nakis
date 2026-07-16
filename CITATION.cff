@@ -15,6 +15,8 @@ version: "2.0.0"
 
 date-released: 2026-07-02
 
+doi: "10.5281/zenodo.21123598"
+
 repository-code: "https://github.com/FaramarzKowsari/suya-nakis"
 
 url: "https://faramarzkowsari.github.io/suya-nakis/"
