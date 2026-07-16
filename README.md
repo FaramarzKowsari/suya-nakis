@@ -420,6 +420,7 @@ A verified English-language bibliography documenting Faramarz Kowsari’s publis
 
 
 ## Citation
+## Citation
 
 This repository includes a machine-readable
 [`CITATION.cff`](./CITATION.cff) file.
@@ -428,7 +429,7 @@ You can use GitHub’s **Cite this repository** menu or cite the permanently
 archived Zenodo release:
 
 > Kowsari, F. (2026). *Suya Nakış: Interactive Digital Ebru Studio*  
-> (Version 2.0.0) [Computer software]. Zenodo.  
+> Version 2.0.0. Zenodo.  
 > https://doi.org/10.5281/zenodo.21123598
 
 <p align="left">
@@ -453,6 +454,11 @@ archived Zenodo release:
   doi       = {10.5281/zenodo.21123598},
   url       = {https://doi.org/10.5281/zenodo.21123598}
 }
+```
+
+</details>
+
+---
 
 ## Current Release
 
@@ -464,9 +470,13 @@ The latest public release is available at:
 
 ## Acknowledgement
 
-This independent project was created with respect for the artists, teachers and cultural communities that have preserved and transmitted the art of Ebru across generations.
+This independent project was created with respect for the artists, teachers,
+and cultural communities that have preserved and transmitted the art of Ebru
+across generations.
 
-Technology can expand access to cultural knowledge, but it cannot replace the physical craft, material experience and accumulated knowledge of traditional practitioners.
+Technology can expand access to cultural knowledge, but it cannot replace the
+physical craft, material experience, and accumulated knowledge of traditional
+practitioners.
 
 ---
 
@@ -474,12 +484,12 @@ Technology can expand access to cultural knowledge, but it cannot replace the ph
 
 You can support Suya Nakış by:
 
-- starring the repository;
-- sharing the live application;
-- reporting technical issues;
-- suggesting accessibility improvements;
-- referencing the project in digital-art or cultural-technology research;
-- introducing the project to educators, artists and cultural institutions.
+- Starring the repository
+- Sharing the live application
+- Reporting technical issues
+- Suggesting accessibility improvements
+- Referencing the project in digital-art or cultural-technology research
+- Introducing the project to educators, artists, and cultural institutions
 
 ---
 
@@ -491,7 +501,7 @@ You can support Suya Nakış by:
 [View the Release](https://github.com/FaramarzKowsari/suya-nakis/releases/latest) ·
 [Visit the Author Profile](https://github.com/FaramarzKowsari)
 
-<br>
+<br><br>
 
 Copyright © 2026 Faramarz Kowsari. All rights reserved.
 
