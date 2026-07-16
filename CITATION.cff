@@ -1,7 +1,9 @@
 cff-version: 1.2.0
-message: "Please cite this software and digital cultural heritage project using the information below."
+
+message: "If you use or reference this project, please cite it using the information below."
 
 title: "Suya Nakış: Interactive Digital Ebru Studio"
+
 type: software
 
 authors:
@@ -10,15 +12,18 @@ authors:
     orcid: "https://orcid.org/0000-0003-1692-0453"
 
 version: "2.0.0"
+
 date-released: 2026-07-02
 
 repository-code: "https://github.com/FaramarzKowsari/suya-nakis"
+
 url: "https://faramarzkowsari.github.io/suya-nakis/"
 
 abstract: >
-  An interactive browser-based digital Ebru studio combining
-  Turkish marbling heritage, creative coding, procedural graphics,
-  narration, touch interaction and downloadable artwork.
+  Suya Nakış is an interactive browser-based digital Ebru studio
+  combining Turkish marbling heritage, creative coding, procedural
+  graphics, browser narration, touch interaction and downloadable
+  artwork.
 
 keywords:
   - Ebru
