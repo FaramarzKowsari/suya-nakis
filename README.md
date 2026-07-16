@@ -419,7 +419,7 @@ A verified English-language bibliography documenting Faramarz Kowsari’s publis
 ---
 
 
-## Citation
+
 ## Citation
 
 This repository includes a machine-readable
