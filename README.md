@@ -418,28 +418,41 @@ A verified English-language bibliography documenting Faramarz Kowsari’s publis
 
 ---
 
+
 ## Citation
 
-This repository includes a machine-readable `CITATION.cff` file.
+This repository includes a machine-readable
+[`CITATION.cff`](./CITATION.cff) file.
 
-GitHub users may select:
+You can use GitHub’s **Cite this repository** menu or cite the permanently
+archived Zenodo release:
 
-```text
-Cite this repository
-```
+> Kowsari, F. (2026). *Suya Nakış: Interactive Digital Ebru Studio*  
+> (Version 2.0.0) [Computer software]. Zenodo.  
+> https://doi.org/10.5281/zenodo.21123598
 
-Suggested citation:
+<p align="left">
+  <a href="https://doi.org/10.5281/zenodo.21123598">
+    <img
+      src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21123598-1682D4?style=flat-square"
+      alt="DOI: 10.5281/zenodo.21123598"
+    />
+  </a>
+</p>
 
-```text
-Kowsari, Faramarz. Suya Nakış: Interactive Digital Ebru Studio.
-Version 2.0.0, 2026. GitHub.
-https://github.com/FaramarzKowsari/suya-nakis
-```
+<details>
+<summary><strong>BibTeX citation</strong></summary>
 
-Kowsari, Faramarz. *Suya Nakış: Interactive Digital Ebru Studio*.  
-Zenodo, 2026.  
-https://doi.org/10.5281/zenodo.21123598
----
+```bibtex
+@software{kowsari_2026_suya_nakis,
+  author    = {Faramarz Kowsari},
+  title     = {Suya Nakış: Interactive Digital Ebru Studio},
+  version   = {2.0.0},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21123598},
+  url       = {https://doi.org/10.5281/zenodo.21123598}
+}
 
 ## Current Release
 
