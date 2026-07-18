@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://faramarzkowsari.github.io/suya-nakis/sitemap.xml
