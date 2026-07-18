@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 512 512"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">Suya Nakış</title>
+  <desc id="desc">Ebru-inspired water-drop favicon for Suya Nakış</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="70" y1="60" x2="440" y2="455"
+                    gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="0.5" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="150" y1="120" x2="365" y2="390"
+                    gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fef3c7"/>
+      <stop offset="1" stop-color="#facc15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="#032f2d"/>
+
+  <path
+    d="M256 67c-58 78-138 157-138 255 0 76 62 138 138 138s138-62 138-138C394 224 314 145 256 67Z"
+    fill="url(#bg)"
+  />
+
+  <path
+    d="M161 313c32-61 84-86 154-76 26 4 52 15 76 34-8-30-23-58-43-84-54-4-99 11-135 43-27 24-45 52-52 83Z"
+    fill="url(#gold)"
+    opacity="0.92"
+  />
+
+  <path
+    d="M163 337c58-42 124-48 198-17"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="20"
+    stroke-linecap="round"
+    opacity="0.9"
+  />
+</svg>
